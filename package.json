@@ -1,0 +1,57 @@
+{
+  "name": "cra-blog",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "^10.0.22",
+    "@emotion/styled": "^10.0.23",
+    "@mdx-js/react": "^1.5.1",
+    "@mdx-js/runtime": "^1.5.1",
+    "@theme-ui/components": "^0.2.46",
+    "@theme-ui/preset-base": "^0.2.44",
+    "@theme-ui/preset-dark": "^0.2.40",
+    "@theme-ui/preset-funk": "^0.2.44",
+    "@theme-ui/presets": "^0.2.44",
+    "@theme-ui/style-guide": "^0.2.46",
+    "@types/jest": "24.0.22",
+    "@types/node": "12.12.7",
+    "@types/ramda": "^0.26.33",
+    "@types/react": "16.9.11",
+    "@types/react-dom": "16.9.4",
+    "@types/react-router-dom": "^5.1.2",
+    "@types/theme-ui": "^0.2.4",
+    "framer-motion": "^1.6.15",
+    "onno-react": "^1.0.0",
+    "prettier": "^1.19.1",
+    "ramda": "^0.26.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-live": "^2.2.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "react-simplemde-editor": "^4.1.0",
+    "theme-ui": "^0.2.46",
+    "typescript": "3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
